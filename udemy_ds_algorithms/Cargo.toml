@@ -1,0 +1,10 @@
+[package]
+name = "udemy_ds_algorithms"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+ch03_struct_enum = {path = "ch03_struct_enum"}
+ch04_results_options = {path = "ch04_results_options"}
